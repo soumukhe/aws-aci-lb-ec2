@@ -1,4 +1,4 @@
-spin up ec2 and ssh -i cert.pem ec2user@ec2_publicIP
+spin up ec2 and ssh -i cert.pem ec2user@ec2_publicIP \n
 sudo yum install git -y 
 git clone (the repo)
 cd to the directory
