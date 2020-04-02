@@ -35,7 +35,7 @@ function mm_strip($string) {
 	<title>My EC2</title>
 	<style type="text/css">
 		* { margin:0; padding:0; }
-		body { background:blue; color:#efefef; margin-top:50px; }
+		body { background:green; color:#efefef; margin-top:50px; }
 		.tools { margin:25px auto; width:960px; }
 		.tools p {
 			margin-left:20px; color:#777; font-family: Georgia,serif;
@@ -74,7 +74,7 @@ function mm_strip($string) {
                 <p> You've reached: </p>
 		</div>
 		<div id="ip-lookup" class="tools">
-			<h1>EC2-Instance 1</h1>
+			<h1>Web Server 2</h1>
 		</div>
 		<div id="more" class="tools">
 			<p><a id="more-link" title="More information" href="javascript:toggle();">More info</a></p>
