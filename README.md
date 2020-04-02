@@ -1,6 +1,6 @@
 spin up ec2 and ssh -i cert.pem ec2user@ec2_publicIP  ;;
 sudo yum install git -y  ;;
-git clone (the repo) ;;
+git clone https://github.com/soumukhe/aws-aci-lb-ec2-2.git ;;
 cd to the directory  ;;
 ./1.install_docker.sh  ;;
 exit and ssh back in  ;;
