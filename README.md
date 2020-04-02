@@ -1,5 +1,5 @@
 spin up ec2 and ssh -i cert.pem ec2user@ec2_publicIP
-sudo yum install git -y
+sudo yum install git -y 
 git clone (the repo)
 cd to the directory
 ./1.install_docker.sh 
